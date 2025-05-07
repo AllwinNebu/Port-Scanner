@@ -1,6 +1,3 @@
-Here’s a professional and complete `README.md` for your port scanner script:
-
----
 
 # 🔍 Port Scanner
 
